@@ -1,0 +1,17 @@
+{
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@nomiclabs/hardhat-etherscan": "^3.1.8",
+    "@openzeppelin/contracts": "^4.8.2",
+    "@openzeppelin/contracts-upgradeable": "^4.8.2",
+    "@openzeppelin/hardhat-upgrades": "^1.22.1",
+    "dotenv": "^16.0.3",
+    "hardhat": "^2.13.0",
+    "hardhat-deploy": "^0.11.25"
+  },
+  "dependencies": {
+    "@uniswap/v2-periphery": "^1.1.0-beta.0",
+    "hardhat-cli": "^1.0.9"
+  }
+}
